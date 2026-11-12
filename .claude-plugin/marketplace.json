@@ -1,0 +1,19 @@
+{
+  "name": "scanned-pdf-cleaner",
+  "owner": { "name": "shlomsh", "url": "https://github.com/shlomsh" },
+  "metadata": {
+    "description": "Clean, flat, print-like PDFs from photos of books and papers.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "scanned-pdf-cleaner",
+      "source": "./plugins/scanned-pdf-cleaner",
+      "description": "Turn phone photos or rough scans of book pages and academic papers into a clean, flat, print-like PDF.",
+      "version": "0.1.0",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["pdf", "scan", "book", "academic-paper", "dewarp", "cleanup"]
+    }
+  ]
+}

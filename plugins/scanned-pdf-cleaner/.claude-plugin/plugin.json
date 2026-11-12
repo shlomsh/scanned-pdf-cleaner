@@ -1,0 +1,10 @@
+{
+  "name": "scanned-pdf-cleaner",
+  "description": "Turn phone photos or rough scans of book pages and academic papers into a clean, flat, print-like PDF: straight lines, no fingers or spine shadows, no smudges or margin notes, even margins.",
+  "version": "0.1.0",
+  "author": { "name": "shlomsh", "url": "https://github.com/shlomsh" },
+  "homepage": "https://github.com/shlomsh/scanned-pdf-cleaner",
+  "repository": "https://github.com/shlomsh/scanned-pdf-cleaner",
+  "license": "MIT",
+  "keywords": ["scanned-pdf", "pdf", "scan", "book-scanner", "academic-paper", "dewarp", "deskew", "cleanup", "document"]
+}
